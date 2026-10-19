@@ -183,3 +183,7 @@ figures/
 ## Author
 
 Manuel Otsame Akoune
+
+## License
+
+Code released under the MIT License (see [LICENSE](LICENSE)).
